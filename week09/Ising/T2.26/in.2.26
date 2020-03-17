@@ -1,0 +1,6 @@
+L 32
+T 2.26
+Nequil   5000
+Nimg 500
+Nsamp    1000
+iseed -5615725
